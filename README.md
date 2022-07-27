@@ -10,5 +10,5 @@ pandas
 
 csv
 
-imblearn# cmpt459
+imblearn
 # cmpt459
